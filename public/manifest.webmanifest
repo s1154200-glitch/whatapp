@@ -1,0 +1,10 @@
+{
+  "name": "我最愛的媽媽 · Chat Archive",
+  "short_name": "Chat Archive",
+  "description": "Private read-only WhatsApp archive viewer",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#efeae2",
+  "theme_color": "#f6f6f6"
+}
